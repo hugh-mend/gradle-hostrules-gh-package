@@ -1,4 +1,4 @@
-name: Publish package to GitHub Packages
+name: Create bootJar
 
 on: workflow_dispatch
 
@@ -19,7 +19,7 @@ jobs:
     - name: Setup Gradle
       uses: gradle/actions/setup-gradle@v3.1.0
    
-    - name: Publish package
-      run: ./gradlew publish
+    - name: Create bootJar
+      run: ./gradlew bootJar
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
