@@ -4,7 +4,7 @@
     "enableReachability": false
   },
   "scanSettingsSAST": {
-    "enableScan": true
+    "enableScan": false
   },
   "remediateSettings": {
     "workflowRules": {
