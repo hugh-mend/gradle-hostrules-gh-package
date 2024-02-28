@@ -1,15 +1,15 @@
 {
-  "settingsInheritedFrom": "DimaMend/whitesource-config@main",
+  "settingsInheritedFrom": "hugh-mend/whitesource-config@main",
   "scanSettingsSAST": {
     "enableScan": false
   },
   "hostRules": [
     {
-      "matchHost": "https://maven.pkg.github.com/DimaMend/gradle-hostrules",
+      "matchHost": "https://maven.pkg.github.com/hugh-mend/gradle-hostrules",
       "hostType": "maven",
-      "username": "DimaMend",
+      "username": "hugh-mend",
       "encrypted": {
-          "token": "wcBMA8xOaBJvzJNbAQf/aFoveXlni+pkQdEq1aPfxc2mXcTo3bAbfjuHbF1v9iIdsWJ/IlutaQhC37OfoE2rBHbaySn7fbsHVOtQKPOfh2pjWICli73jDhipToRo9fDSekrCW4V6Ak7ueOpMygVgmKqf1SxiWEYR63QFe7gWn825JfBwaQQGrhYBfw0FPSUzusHp0guOUGlsGFMzVnUzMxV819Shx9An/K7DsM8gAUsrBeF8bISfJJEldFTi+spvCQJgb3PH8mq/ZiF0bCeZRYadmt9TfVpjxnQsmIvOBPgTIjAZmiiioviye7MKQ9j/587VrGmYzkabpyzn3OtzXMOoRhd7l8FVFA1X4Tej1dJ3AWSwPufr3aHl+dzep2j3B6QRq8PPwQbriXrAV/5UxqVuPZB8iz4fLWLy5vNV6AOrddeAIYWwJXMobh4Uezb9wyr8aTQsEXji29D17DvdgYe8wqemcyS2c5vNaLceWiROhkE14CPfgtaafaBK/VEnM/G64JnAHKU"
+          "token": "wcBMA8xOaBJvzJNbAQgAiCtwaW7sSQpJq9BzxMyvuY9doeKZDjAktICobRE8fMZI5NH5bJFRM7LgTsNCwg1nFaQ7Fkcu5uRzIMva7WM4/gqDHu29+6iD8aJ0XavbE2z2dU6+cDFkPw9/1/NC/32DvFOhFkXTzYhgkYrXIfaxn7rwiUYk7mTw0/xQLKvZyElzfjkot+YbwXz+NhzZMX7CD5jR0sfkAFi1yzcNX+56B/MXKGVrIR8oeoJu8t2e0thrSfXQa9p/44HZ45zquAppInE3hjy3YNkBZnCfgLivpf/Q7P9Y0bar3fcL9ni+0RWFAeKmGiAMrHSPowwALr+SxJdE+pWJghLb29qHSAueFdJ4AUi7NWreJGl32hymrd2Hmd5Rqv/aaOGsK/LRgzxcHywSRNnuLpo7huE2Kwixdn4qwBXAdQCTh6382i6nrepzpNF40LCbBAIrkneL8Vp0NrBilirQaedsuZWW+2Tmc8CVGQWsPVAhW/u5jyV6e9SQ+IRrBSJ5wRI8"
       }
     }
   ]
