@@ -6,6 +6,12 @@
   "scanSettingsSAST": {
     "enableScan": false
   },
+  "remediateSettings": {
+    "workflowRules": {
+      "enabled": true
+    },
+    "enableRenovate": false
+  },
   "hostRules": [
     {
       "matchHost": "https://maven.pkg.github.com/hugh-mend/gradle-hostrules",
