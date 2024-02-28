@@ -26,7 +26,3 @@ dependencies {
     // The reference to our published library artifact
     implementation 'mend:devops-github-packages-library:1.0.0'
 }
-
-bootJar {
-    mainClassName = 'io.flowsquad.blog.devops.github.packages.main.MainClass'
-}
