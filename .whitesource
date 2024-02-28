@@ -14,7 +14,7 @@
   },
   "hostRules": [
     {
-      "matchHost": "https://maven.pkg.github.com/hugh-mend/gradle-hostrules",
+      "matchHost": "https://maven.pkg.github.com/hugh-mend/gradle-hostrules-gh-package",
       "hostType": "gradle",
       "username": "hugh-mend",
       "encrypted": {
