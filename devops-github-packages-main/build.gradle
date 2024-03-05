@@ -4,8 +4,8 @@ plugins {
 
 sourceCompatibility = JavaVersion.VERSION_11
 
-group 'mend'
-version '1.0.0'
+// group 'mend'
+// version '1.0.0'
 
 repositories {
     mavenCentral()
