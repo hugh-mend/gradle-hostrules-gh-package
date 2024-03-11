@@ -20,6 +20,6 @@ jobs:
       uses: gradle/actions/setup-gradle@v3.1.0
    
     - name: Publish package
-      run: ./gradlew publish
+      run: ./gradlew publish --scan
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
