@@ -35,7 +35,7 @@ dependencies {
 publishing {
     repositories {
         // The target repository
-        gradle {
+        maven {
             // Choose whatever name you want
             name = "GitHubPackages"
             // The url of the repository, where the artifacts will be published
