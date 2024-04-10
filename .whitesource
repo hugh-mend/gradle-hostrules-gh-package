@@ -15,7 +15,11 @@
   "hostRules": [
     {
       "matchHost": "https://maven.pkg.github.com/hugh-mend/gradle-hostrules-gh-package",
-      "hostType": "gradle"
+      "hostType": "gradle",
+      "username": "hugh-mend",
+      "encrypted": {
+          "token": "wcBMA8xOaBJvzJNbAQf/bzHDKng44ghbLgReh0qtLb4aUiSGncDMGPLP/KKCbe+tFg75a+pH+YKIvo+WmdJLRGdWA6jA7P4Tt6CcAFlEixG4z2BB+GILnydd2imTTHDd9Oc8UgB4aE4yF8U8vbrbCrAw3i+y9frEc1i57T6EGKgeP3wzhZrO5hmRD+LDZTi2kApnnzGBmSKTSQiR62FsLtKyxlpQwUFT05xZZSSWQiZ61W3j31unbwXu2PFrMXchUJTch/eyhoNliL0d5EJC9cakybi/o15YBHMU0I/LC/vzUQuCspm7ZdtOPaoIk7qIdgCqSv6sps4prSjo/9nm5p2z+KBsZ548vyMGtjwwfdJ4AR578V5h1G7XGar+qMtkGDgS+dQmqR39AajVGJTldIkVB1qQS9nI0gJVdJUVPZ+dY5p2NEjI+1JBgcdXk6H/ttArVUXlElQFYz/gpx6Js4judhRyJivdI5+nVIaWl8L+TRLLYmjC3e4jUJytpQlnURAXJIIOFscC"
+      }
     }
   ]
 }
