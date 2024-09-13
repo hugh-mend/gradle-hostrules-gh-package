@@ -9,7 +9,7 @@ plugins {
 sourceCompatibility = JavaVersion.VERSION_11
 
 group 'mend'
-version '1.0.1'
+version '2.0.1'
 
 repositories {
     mavenCentral()
@@ -39,11 +39,11 @@ publishing {
             // Choose whatever name you want
             name = "GitHubPackages"
             // The url of the repository, where the artifacts will be published
-            url = "https://maven.pkg.github.com/hugh-mend/gradle-hostrules-gh-package"
+            url = "https://maven.pkg.github.com/hugh-whitesource3/gradle-hostrules-gh-package2"
             credentials {
                 // The credentials (described in the next section)
-                username = project.findProperty("gpr.user")
-                password = project.findProperty("gpr.key")
+                username = project.findProperty("gpr.user2")
+                password = project.findProperty("gpr.key2")
             }
         }
     }

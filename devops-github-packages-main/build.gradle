@@ -16,13 +16,14 @@ repositories {
         url = "https://maven.pkg.github.com/hugh-mend/gradle-hostrules-gh-package"
         credentials {
             // The credentials (described in the next section)
-            username = System.getenv("GITHUB_ACTOR")
-            password = System.getenv("GITHUB_TOKEN")
+            username = project.findProperty("gpr.user")
+            password = project.findProperty("gpr.key")
         }
     }
 }
 
 dependencies {
     // The reference to our published library artifact
-    implementation 'mend:devops-github-packages-library:1.0.0'
+    implementation 'mend:devops-github-packages-library:1.0.1'
+    implementation 'mend:devops-github-packages-library2:2.0.1'
 }
