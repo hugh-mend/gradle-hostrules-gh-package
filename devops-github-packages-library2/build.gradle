@@ -42,8 +42,8 @@ publishing {
             url = "https://maven.pkg.github.com/hugh-whitesource3/gradle-hostrules-gh-package2"
             credentials {
                 // The credentials (described in the next section)
-                username = project.findProperty("gpr.user2")
-                password = project.findProperty("gpr.key2")
+                username = System.getenv("GITHUB_ACTOR2")
+                password = System.getenv("GITHUB_TOKEN2")
             }
         }
     }
