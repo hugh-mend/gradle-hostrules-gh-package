@@ -16,8 +16,19 @@ repositories {
         url = "https://maven.pkg.github.com/hugh-mend/gradle-hostrules-gh-package"
         credentials {
             // The credentials (described in the next section)
-            username = project.findProperty("gpr.user")
-            password = project.findProperty("gpr.key")
+            username = System.getenv("GITHUB_ACTOR")
+            password = System.getenv("GITHUB_TOKEN")
+        }
+    }
+    maven {
+        // Choose whatever name you like
+        name = "GitHubPackages2"
+        // The url of the repository that contains the published artifacts
+        url = "https://maven.pkg.github.com/hugh-whitesource3/gradle-hostrules-gh-package2"
+        credentials {
+            // The credentials (described in the next section)
+            username = System.getenv("ACTOR2")
+            password = System.getenv("TOKEN2")
         }
     }
 }
