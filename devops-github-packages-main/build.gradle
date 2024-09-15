@@ -31,10 +31,22 @@ repositories {
             password = System.getenv("TOKEN2")
         }
     }
+    maven {
+        // Choose whatever name you like
+        name = "GitHubPackages3"
+        // The url of the repository that contains the published artifacts
+        url = "https://maven.pkg.github.com/feemstr/gradle-hostrules-gh-package3"
+        credentials {
+            // The credentials (described in the next section)
+            username = System.getenv("ACTOR3")
+            password = System.getenv("TOKEN3")
+        }
+    }
 }
 
 dependencies {
     // The reference to our published library artifact
     implementation 'mend:devops-github-packages-library:1.0.1'
     implementation 'mend:devops-github-packages-library2:2.0.1'
+    implementation 'mend:devops-github-packages-library3:3.0.1'
 }
