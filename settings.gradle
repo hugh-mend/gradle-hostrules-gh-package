@@ -1,3 +1,37 @@
+pluginManagement {
+    def propertyUserHome = System.getProperty('user.home')
+    def localGradleProperties = new File(propertyUserHome + '/.gradle/gradle.properties')
+    def localProperties = new Properties()
+    
+    if (localGradleProperties.exists()) {
+        localProperties.load(localGradleProperties.newReader())
+    }
+    
+    def bitsoGHRepoActor = System.getenv('GITHUB_ACTOR') ?: localProperties.get('bitso.github.actor')
+    def bitsoGHRepoPassword = System.getenv('GITHUB_TOKEN') ?: localProperties.get('bitso.github.token')
+
+    repositories {
+        maven {
+            name 'BitsoPackages'
+            url 'https://maven.pkg.github.com/bitsoex/artifacts'
+            credentials {
+                username = "test@mend.io"
+                password = "foo"
+            }
+        }
+        gradlePluginPortal()
+    }
+
+    plugins {
+        id 'org.sonarqube' version "${sonarqubePluginVersion}"
+        id 'bitso.endurance' version '0.1.17'
+    }
+}
+
+plugins {
+    id 'bitso.endurance'
+}
+
 rootProject.name = 'vulnpackage'
 include 'devops-github-packages-main'
 include 'devops-github-packages-library'
