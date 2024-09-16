@@ -18,7 +18,23 @@
       "hostType": "maven",
       "username": "hugh-mend",
       "encrypted": {
-          "token": "wcBMA8xOaBJvzJNbAQf/bzHDKng44ghbLgReh0qtLb4aUiSGncDMGPLP/KKCbe+tFg75a+pH+YKIvo+WmdJLRGdWA6jA7P4Tt6CcAFlEixG4z2BB+GILnydd2imTTHDd9Oc8UgB4aE4yF8U8vbrbCrAw3i+y9frEc1i57T6EGKgeP3wzhZrO5hmRD+LDZTi2kApnnzGBmSKTSQiR62FsLtKyxlpQwUFT05xZZSSWQiZ61W3j31unbwXu2PFrMXchUJTch/eyhoNliL0d5EJC9cakybi/o15YBHMU0I/LC/vzUQuCspm7ZdtOPaoIk7qIdgCqSv6sps4prSjo/9nm5p2z+KBsZ548vyMGtjwwfdJ4AR578V5h1G7XGar+qMtkGDgS+dQmqR39AajVGJTldIkVB1qQS9nI0gJVdJUVPZ+dY5p2NEjI+1JBgcdXk6H/ttArVUXlElQFYz/gpx6Js4judhRyJivdI5+nVIaWl8L+TRLLYmjC3e4jUJytpQlnURAXJIIOFscC"
+          "token": "wcBMA8xOaBJvzJNbAQf/fyFxJTpzu/3dH9OUL4Wivgpvfne5+yskg6eLiJvIpo3+UH2QCo7ZwfS7nN3wBa8F47bW9jz2QtF0fKeuONrpRaYJx3f1ah2gQJ+Pdr95rjIiXC/d9CpXCSK6oSu8D/QoaLN4DNdZSsakT6Ihv3huaFKHpf2pPdHfz39FuuqkYBONLzmIamQ6EqGUJaPM2f/5Lq2ZTO8Ywn8Hvk+o5NQDnQEDNzHILuRMSf1CJDAXlbpXBZbX1v6+gKUiXnF1rz4u2rMSnp4eBFNlWPw3AvzdJa+ndbHcIDdtzB/tdLqwKf23ML/gN7+KG1zQ9maxbBnFRaidd/ak/bu7aVw8NMd/X9KTAX5QOFaovFZDFcFic+9rHo1Ok8iSNM3qv1b1GY3keMfUwr4uwzJo+EkVlYFczbToCCJaIcrpcTtU4vlSF4K+PVBMDv5NAoToEqZC+x19GM5uqZEBvN142kv3KTSeWHxOI4u7bRnz3a3Pqx9w9MNWzcfrX0o007bhuJEyZTo5JVGsCrZt17+qoc/zP/e4NlVbnVLn"
+      }
+    },
+    {
+      "matchHost": "https://maven.pkg.github.com/hugh-whitesource3/gradle-hostrules-gh-package2",
+      "hostType": "maven",
+      "username": "hugh-whitesource3",
+      "encrypted": {
+          "token": "wcBMA8xOaBJvzJNbAQgAmN3lAQMHKNqDfZvaRvdS0AYsl14tll1E+RAwqP/+9A4sCBgzolqn/VPf/fwDL9eg3i9wLdy63XpXyv1HASQ9fetUyORAEicPP6ySlO3xFWzXx1+WLGnzm3dt790ik3Wuc6K667pkcj+s0+AE+JBwh/bQKQ+SQaem/rlPRafUapKy03Z5fwsoO2MBUN4xgdxrD9lWC6+IguMzfOpLSjnUDLRJAzVH6nWtKE2pcIb85tLx4qt75o7kF6LO3a3Yw/rxjFekkBCQzksOaoG1A/amR7E4puAQomVAmgls2Ro2FApC6Z5EP6RqXC+ncp3DPtI3/IF6SLQMSq3buWB49Jl+x9KcAbpbf4BRC3WKfiGJHCD3Z432Ut75jJmQVpWPP95YkWU2YLQo+fHSlOgOLo5x+686vg0ApR/l9mUPG1nWdod/AvMG2ftvn5Y8SerPKLJYBlR53dCIzjCmjO//qGQCOzS0sgQFN6c/eysWKw86tw+0S1yjpnsTHMz2hY2/VuNLXgA/iRnWpYhe3cXYgnxCB77DBOoGeVquo6Fhey9h"
+      }
+    },
+    {
+      "matchHost": "https://maven.pkg.github.com/hugh-whitesource3/gradle-hostrules-gh-package3",
+      "hostType": "maven",
+      "username": "hugh-whitesource3",
+      "encrypted": {
+          "token": "wcBMA8xOaBJvzJNbAQgAlpm7CbfH94VaaAc5PhnYy8eyrd0e/z/4Y/uk7hP7RgH0faRz9xu4dr2zFquQ695F8WuVu0RelKE8pCTrKBQef4vszAWBVX0zkqqqWj0QyPT2gxj8e51kSEaReR9GlPvwrrqYS4e7q0fKFZWoNpETeVaONTJ+rIlwA3jh4qtkc4nNRewka5y9wCqKnHxPzv67t98DcuDgcJv2OHP9A1wFq49BaOEm6QudJRUKqsYhJboM8cLUj0/a7tCFacdtNI7IQsy2z0PUdwq6MHZlIeOJEpbaV9f3SiQT424aR+TRrgdcfpry+CiE5BMyLJup5NvVynFcT1s4VUDzwzGyOV+IxtKcAWJI8ud/t7ZZBoZ9HEzu7BJ5xVzpQE4Duns2Qrv5H+dEmuVXCeqDf5bdCE1fbo+bSvA3jLg4z9ikVolkX5NJHIJy+ylOborrsKoHTkACDh0eTjo0LThshiZ+d0mi/CYB1fxraNhFoZb8w1ZrQvex0BvNefXsKsKx0AWkh7V1NNMAJMcilR+HlQx53yj+q5dC4FpVonHODAt5Ayij"
       }
     }
   ]
