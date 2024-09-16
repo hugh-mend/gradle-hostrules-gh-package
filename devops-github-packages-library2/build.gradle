@@ -37,7 +37,7 @@ publishing {
         // The target repository
         maven {
             // Choose whatever name you want
-            name = "GitHubPackages"
+            name = "GitHubPackages2"
             // The url of the repository, where the artifacts will be published
             url = "https://maven.pkg.github.com/hugh-whitesource3/gradle-hostrules-gh-package2"
             credentials {
