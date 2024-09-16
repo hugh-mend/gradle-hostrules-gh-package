@@ -18,7 +18,7 @@
       "hostType": "maven",
       "username": "hugh-mend",
       "encrypted": {
-          "token": "wcBMA8xOaBJvzJNbAQf+OaDc4DrTLkIKhBI2+9mWlmQ+j2h5UszFMuCf+q2XJP1NJtChZOcAuAyMJXpr/HPKhIwZxFmmvi1BKHDEQuvzPw6q1p1urJq8LZE3nXn7scN2ZbOayj39Haig4/bFMBMKpE+0IMgj6o2qNfMUZqu6xS+N62KD+l8UeoD0cUx0cbzhwgAB/sUSTFEcwKq1GrBLOvPNfYrBNpvmb2zP6whTYqlStyhVh3hsgglt2f+HI+GBtG31WGEuAtn704s3VP5M17eeJNn2E0yDhEWfYdHmNU25ef2Ws1slV9o/evaYQXJU3W7U6+LFou61kjx+hD3UPKgROXXSrN0d02YhJbRYztJ4AcR24Q0hJoh0Ot0gKAYzPr6ttXy0f0jfjsHS/BSLh+G28aDDUx4NjJ/hODvzCdM64X1Dr9DmHElhpe8R1Md8axTXJBnBjY+ztoJ27BmTskimjeGTEOmCQ7JrwRi/zqawQYqedOkVJ9EgzqS7/mOSUIwo8xsHoChg"
+          "token": "wcBMA8xOaBJvzJNbAQf/fyFxJTpzu/3dH9OUL4Wivgpvfne5+yskg6eLiJvIpo3+UH2QCo7ZwfS7nN3wBa8F47bW9jz2QtF0fKeuONrpRaYJx3f1ah2gQJ+Pdr95rjIiXC/d9CpXCSK6oSu8D/QoaLN4DNdZSsakT6Ihv3huaFKHpf2pPdHfz39FuuqkYBONLzmIamQ6EqGUJaPM2f/5Lq2ZTO8Ywn8Hvk+o5NQDnQEDNzHILuRMSf1CJDAXlbpXBZbX1v6+gKUiXnF1rz4u2rMSnp4eBFNlWPw3AvzdJa+ndbHcIDdtzB/tdLqwKf23ML/gN7+KG1zQ9maxbBnFRaidd/ak/bu7aVw8NMd/X9KTAX5QOFaovFZDFcFic+9rHo1Ok8iSNM3qv1b1GY3keMfUwr4uwzJo+EkVlYFczbToCCJaIcrpcTtU4vlSF4K+PVBMDv5NAoToEqZC+x19GM5uqZEBvN142kv3KTSeWHxOI4u7bRnz3a3Pqx9w9MNWzcfrX0o007bhuJEyZTo5JVGsCrZt17+qoc/zP/e4NlVbnVLn"
       }
     },
     {
@@ -26,7 +26,7 @@
       "hostType": "maven",
       "username": "hugh-whitesource3",
       "encrypted": {
-          "token": "wcBMA8xOaBJvzJNbAQgAjz+klFLKarrgJ44a/HGCXjk8GPu37uYkSnQ7QHxfn4W0kUtzW0B8jXBIOnHATyK45pzQtuKOM5Y4dFhwSiGRD3ihJuY2/F1ahCk0Sbx233TPUBods241aLSgDNki5IzUZPYKWcX2AC3w5TB+nqbjqoT1kKaGOJo6hrb04dxyfr+befB6FOTocTP2uTXLv9u4IOP1OL1MZQuHYmfQCAgIFWJJoL2cUQq0iGpbxTj550Q7N/cBXgEFSpP0tT7DQKE48RswUkHHvyI7t+9T7hvijKo+mccaw+8Bj5on9rN90T4Bth59fiuhUkS02nwy7IOYtL1wiKDOUQm4vsamH36jHtKAAflcNRlDKAaWv8BNajyoG3kWJAcwRz0/ihQ3J8drhTEyvhvBsnTHMALCiVY8A+/1jmqpmrVIhf79eEQcH8LN9ehHhcbMhB+i9BWbtBD7HDczBbO9rooJWa93QTernmOKLqzDfwGov/QZUD/sc3rCfhcFCf4FqjoAMJRMLuQ1lF8"
+          "token": "wcBMA8xOaBJvzJNbAQgAmN3lAQMHKNqDfZvaRvdS0AYsl14tll1E+RAwqP/+9A4sCBgzolqn/VPf/fwDL9eg3i9wLdy63XpXyv1HASQ9fetUyORAEicPP6ySlO3xFWzXx1+WLGnzm3dt790ik3Wuc6K667pkcj+s0+AE+JBwh/bQKQ+SQaem/rlPRafUapKy03Z5fwsoO2MBUN4xgdxrD9lWC6+IguMzfOpLSjnUDLRJAzVH6nWtKE2pcIb85tLx4qt75o7kF6LO3a3Yw/rxjFekkBCQzksOaoG1A/amR7E4puAQomVAmgls2Ro2FApC6Z5EP6RqXC+ncp3DPtI3/IF6SLQMSq3buWB49Jl+x9KcAbpbf4BRC3WKfiGJHCD3Z432Ut75jJmQVpWPP95YkWU2YLQo+fHSlOgOLo5x+686vg0ApR/l9mUPG1nWdod/AvMG2ftvn5Y8SerPKLJYBlR53dCIzjCmjO//qGQCOzS0sgQFN6c/eysWKw86tw+0S1yjpnsTHMz2hY2/VuNLXgA/iRnWpYhe3cXYgnxCB77DBOoGeVquo6Fhey9h"
       }
     },
     {
@@ -34,7 +34,7 @@
       "hostType": "maven",
       "username": "hugh-whitesource3",
       "encrypted": {
-          "token": "wcBMA8xOaBJvzJNbAQgAjz+klFLKarrgJ44a/HGCXjk8GPu37uYkSnQ7QHxfn4W0kUtzW0B8jXBIOnHATyK45pzQtuKOM5Y4dFhwSiGRD3ihJuY2/F1ahCk0Sbx233TPUBods241aLSgDNki5IzUZPYKWcX2AC3w5TB+nqbjqoT1kKaGOJo6hrb04dxyfr+befB6FOTocTP2uTXLv9u4IOP1OL1MZQuHYmfQCAgIFWJJoL2cUQq0iGpbxTj550Q7N/cBXgEFSpP0tT7DQKE48RswUkHHvyI7t+9T7hvijKo+mccaw+8Bj5on9rN90T4Bth59fiuhUkS02nwy7IOYtL1wiKDOUQm4vsamH36jHtKAAflcNRlDKAaWv8BNajyoG3kWJAcwRz0/ihQ3J8drhTEyvhvBsnTHMALCiVY8A+/1jmqpmrVIhf79eEQcH8LN9ehHhcbMhB+i9BWbtBD7HDczBbO9rooJWa93QTernmOKLqzDfwGov/QZUD/sc3rCfhcFCf4FqjoAMJRMLuQ1lF8"
+          "token": "wcBMA8xOaBJvzJNbAQgAlpm7CbfH94VaaAc5PhnYy8eyrd0e/z/4Y/uk7hP7RgH0faRz9xu4dr2zFquQ695F8WuVu0RelKE8pCTrKBQef4vszAWBVX0zkqqqWj0QyPT2gxj8e51kSEaReR9GlPvwrrqYS4e7q0fKFZWoNpETeVaONTJ+rIlwA3jh4qtkc4nNRewka5y9wCqKnHxPzv67t98DcuDgcJv2OHP9A1wFq49BaOEm6QudJRUKqsYhJboM8cLUj0/a7tCFacdtNI7IQsy2z0PUdwq6MHZlIeOJEpbaV9f3SiQT424aR+TRrgdcfpry+CiE5BMyLJup5NvVynFcT1s4VUDzwzGyOV+IxtKcAWJI8ud/t7ZZBoZ9HEzu7BJ5xVzpQE4Duns2Qrv5H+dEmuVXCeqDf5bdCE1fbo+bSvA3jLg4z9ikVolkX5NJHIJy+ylOborrsKoHTkACDh0eTjo0LThshiZ+d0mi/CYB1fxraNhFoZb8w1ZrQvex0BvNefXsKsKx0AWkh7V1NNMAJMcilR+HlQx53yj+q5dC4FpVonHODAt5Ayij"
       }
     }
   ]
