@@ -24,7 +24,7 @@ repositories {
         // Choose whatever name you like
         name = "GitHubPackages2"
         // The url of the repository that contains the published artifacts
-        url = "https://maven.pkg.github.com/hugh-whitesource3/gradle-hostrules-gh-package2"
+        url = "https://maven.pkg.github.com/hugh-mend/gradle-hostrules-gh-package2"
         credentials {
             // The credentials (described in the next section)
             username = System.getenv("ACTOR2")
@@ -35,7 +35,7 @@ repositories {
         // Choose whatever name you like
         name = "GitHubPackages3"
         // The url of the repository that contains the published artifacts
-        url = "https://maven.pkg.github.com/feemstr/gradle-hostrules-gh-package3"
+        url = "https://maven.pkg.github.com/hugh-mend/gradle-hostrules-gh-package3"
         credentials {
             // The credentials (described in the next section)
             username = System.getenv("ACTOR3")

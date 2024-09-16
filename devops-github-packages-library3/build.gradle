@@ -39,11 +39,11 @@ publishing {
             // Choose whatever name you want
             name = "GitHubPackages3"
             // The url of the repository, where the artifacts will be published
-            url = "https://maven.pkg.github.com/hugh-whitesource3/gradle-hostrules-gh-package3"
+            url = "https://maven.pkg.github.com/hugh-mend/gradle-hostrules-gh-package3"
             credentials {
                 // The credentials (described in the next section)
-                username = System.getenv("ACTOR2")
-                password = System.getenv("TOKEN2")
+                username = System.getenv("GITHUB_ACTOR")
+                password = System.getenv("GITHUB_TOKEN")
             }
         }
     }
