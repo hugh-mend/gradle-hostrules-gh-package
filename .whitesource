@@ -20,6 +20,22 @@
       "encrypted": {
           "token": "wcBMA8xOaBJvzJNbAQf+OaDc4DrTLkIKhBI2+9mWlmQ+j2h5UszFMuCf+q2XJP1NJtChZOcAuAyMJXpr/HPKhIwZxFmmvi1BKHDEQuvzPw6q1p1urJq8LZE3nXn7scN2ZbOayj39Haig4/bFMBMKpE+0IMgj6o2qNfMUZqu6xS+N62KD+l8UeoD0cUx0cbzhwgAB/sUSTFEcwKq1GrBLOvPNfYrBNpvmb2zP6whTYqlStyhVh3hsgglt2f+HI+GBtG31WGEuAtn704s3VP5M17eeJNn2E0yDhEWfYdHmNU25ef2Ws1slV9o/evaYQXJU3W7U6+LFou61kjx+hD3UPKgROXXSrN0d02YhJbRYztJ4AcR24Q0hJoh0Ot0gKAYzPr6ttXy0f0jfjsHS/BSLh+G28aDDUx4NjJ/hODvzCdM64X1Dr9DmHElhpe8R1Md8axTXJBnBjY+ztoJ27BmTskimjeGTEOmCQ7JrwRi/zqawQYqedOkVJ9EgzqS7/mOSUIwo8xsHoChg"
       }
+    },
+    {
+      "matchHost": "https://maven.pkg.github.com/hugh-whitesource3/gradle-hostrules-gh-package2",
+      "hostType": "maven",
+      "username": "hugh-whitesource3",
+      "encrypted": {
+          "token": "wcBMA8xOaBJvzJNbAQgAjz+klFLKarrgJ44a/HGCXjk8GPu37uYkSnQ7QHxfn4W0kUtzW0B8jXBIOnHATyK45pzQtuKOM5Y4dFhwSiGRD3ihJuY2/F1ahCk0Sbx233TPUBods241aLSgDNki5IzUZPYKWcX2AC3w5TB+nqbjqoT1kKaGOJo6hrb04dxyfr+befB6FOTocTP2uTXLv9u4IOP1OL1MZQuHYmfQCAgIFWJJoL2cUQq0iGpbxTj550Q7N/cBXgEFSpP0tT7DQKE48RswUkHHvyI7t+9T7hvijKo+mccaw+8Bj5on9rN90T4Bth59fiuhUkS02nwy7IOYtL1wiKDOUQm4vsamH36jHtKAAflcNRlDKAaWv8BNajyoG3kWJAcwRz0/ihQ3J8drhTEyvhvBsnTHMALCiVY8A+/1jmqpmrVIhf79eEQcH8LN9ehHhcbMhB+i9BWbtBD7HDczBbO9rooJWa93QTernmOKLqzDfwGov/QZUD/sc3rCfhcFCf4FqjoAMJRMLuQ1lF8"
+      }
+    },
+    {
+      "matchHost": "https://maven.pkg.github.com/hugh-whitesource3/gradle-hostrules-gh-package3",
+      "hostType": "maven",
+      "username": "hugh-whitesource3",
+      "encrypted": {
+          "token": "wcBMA8xOaBJvzJNbAQgAjz+klFLKarrgJ44a/HGCXjk8GPu37uYkSnQ7QHxfn4W0kUtzW0B8jXBIOnHATyK45pzQtuKOM5Y4dFhwSiGRD3ihJuY2/F1ahCk0Sbx233TPUBods241aLSgDNki5IzUZPYKWcX2AC3w5TB+nqbjqoT1kKaGOJo6hrb04dxyfr+befB6FOTocTP2uTXLv9u4IOP1OL1MZQuHYmfQCAgIFWJJoL2cUQq0iGpbxTj550Q7N/cBXgEFSpP0tT7DQKE48RswUkHHvyI7t+9T7hvijKo+mccaw+8Bj5on9rN90T4Bth59fiuhUkS02nwy7IOYtL1wiKDOUQm4vsamH36jHtKAAflcNRlDKAaWv8BNajyoG3kWJAcwRz0/ihQ3J8drhTEyvhvBsnTHMALCiVY8A+/1jmqpmrVIhf79eEQcH8LN9ehHhcbMhB+i9BWbtBD7HDczBbO9rooJWa93QTernmOKLqzDfwGov/QZUD/sc3rCfhcFCf4FqjoAMJRMLuQ1lF8"
+      }
     }
   ]
 }
