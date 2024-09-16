@@ -27,8 +27,8 @@ repositories {
         url = "https://maven.pkg.github.com/hugh-mend/gradle-hostrules-gh-package2"
         credentials {
             // The credentials (described in the next section)
-            username = System.getenv("ACTOR2")
-            password = System.getenv("TOKEN2")
+            username = System.getenv("GITHUB_ACTOR")
+            password = System.getenv("GITHUB_TOKEN")
         }
     }
     maven {
@@ -38,8 +38,8 @@ repositories {
         url = "https://maven.pkg.github.com/hugh-mend/gradle-hostrules-gh-package3"
         credentials {
             // The credentials (described in the next section)
-            username = System.getenv("ACTOR3")
-            password = System.getenv("TOKEN3")
+            username = System.getenv("GITHUB_ACTOR")
+            password = System.getenv("GITHUB_TOKEN")
         }
     }
 }
