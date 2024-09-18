@@ -8,7 +8,7 @@ pluginManagement {
 //    }
 
     def bitsoGHRepoActor = System.getenv('GITHUB_ACTOR') ?: "foo"
-    def bitsoGHRepoPassword = System.getenv('GITHUB_TOKEN') ?: "bar"
+    def bitsoGHRepoPassword = System.getenv('GITHUB_TOKEN') ?: "barrrrr"
 
     repositories {
         maven {
