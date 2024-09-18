@@ -1,6 +1,6 @@
 plugins {
     id 'java'
-    id 'com.example.plugin.greeting'
+//    id 'com.example.plugin.greeting'
 }
 
 sourceCompatibility = JavaVersion.VERSION_11
@@ -21,9 +21,21 @@ repositories {
             password = System.getenv("GITHUB_TOKEN")
         }
     }
+    maven {
+        // Choose whatever name you like
+        name = "GitHubGreeting"
+        // The url of the repository that contains the published artifacts
+        url = "https://maven.pkg.github.com/hugh-mend/greeting-plugin"
+        credentials {
+            // The credentials (described in the next section)
+            username = System.getenv("GITHUB_ACTOR")
+            password = System.getenv("GITHUB_TOKEN")
+        }
+    }
 }
 
 dependencies {
     // The reference to our published library artifact
     implementation 'mend:devops-github-packages-library:1.0.0'
+    implementation 'com.example.plugin.greeting:com.example.plugin.greeting.gradle.plugin:1.0.1'
 }
