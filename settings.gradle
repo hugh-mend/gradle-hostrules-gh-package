@@ -1,4 +1,15 @@
 pluginManagement {
+//    def propertyUserHome = System.getProperty('user.home')
+//    def localGradleProperties = new File(propertyUserHome + '/.gradle/gradle.properties')
+//    def localProperties = new Properties()
+
+//    if (localGradleProperties.exists()) {
+//        localProperties.load(localGradleProperties.newReader())
+//    }
+
+    def bitsoGHRepoActor = System.getenv('GITHUB_ACTOR') ?: "foo"
+    def bitsoGHRepoPassword = System.getenv('GITHUB_TOKEN') ?: "bar"
+
     repositories {
         maven {
             // Choose whatever name you want
@@ -7,8 +18,8 @@ pluginManagement {
             url = "https://maven.pkg.github.com/hugh-mend/greeting-plugin"
             credentials {
                 // The credentials (described in the next section)
-                username = System.getenv("GITHUB_ACTOR")
-                password = System.getenv("GITHUB_TOKEN")
+                username = bitsoGHRepoActor
+                password = bitsoGHRepoPassword
             }
         }
         gradlePluginPortal()
