@@ -1,7 +1,8 @@
 {
   "settingsInheritedFrom": "hugh-mend/whitesource-config@main",
   "scanSettings": {
-    "enableReachability": false
+    "enableReachability": false,
+    "configMode": "LOCAL"
   },
   "scanSettingsSAST": {
     "enableScan": false
