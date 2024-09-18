@@ -16,6 +16,10 @@
     {
       "matchHost": "https://maven.pkg.github.com/hugh-mend/greeting-plugin",
       "hostType": "maven",
+      "envVariablesMapping": {
+        "userName": "GITHUB_ACTOR",
+        "token": "GITHUB_TOKEN"
+      },
       "username": "hugh-mend",
       "encrypted": {
           "token": "wcBMA8xOaBJvzJNbAQf9FAn/rk24IVlMOl8Yy2hliAdekInQBLWfTZx3KeCTcLfm9OkSlSQrdAJMv0w+pm8R/uF8brr4AKEoQoOs7o4YFP8HuZmpGO+FNU3wvPBeIFyUI5tEf0PWaRc/v8WJOekaqPSEa3yxGPOt1XgyNXE/Jq3gaqYAU5ZGoJhWInCY7EJThpnHoquVmmOXl8KpN/frTjnzNPhoLpfIdoEVbXH3Dp+ctFQmZAfTMMxqRplWtaTowb/wsNkJpETKDz99bg4uCeQU1f3d8xMHJ9J+dfBftwKFmxuIi/QdiH6idFSQayGIhRqiBn5XLOt6tiYiSXbMJ24qTTe2SqJDMiST9ik3ONJ4AbnqAJY/GCZUlaN3Ea3fb3tcBqBLLEDowDkPuh53CCdOHFugUOWeNZmbglN3N0kQ6yRlZcaX83YrsrhFLbtRsWsurzTakwIZfGwTFJJ9UZB9ErZnmSaOFh6+XhtWXtY7uutLQPFTfDibS0Gjyg3crqN8wwAIQI4l"
