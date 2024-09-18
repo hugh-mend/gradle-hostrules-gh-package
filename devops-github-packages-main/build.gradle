@@ -22,7 +22,7 @@ repositories {
         }
     }
     maven {
-        // Choose whatever name you like
+        // Choose whatever name you likeeeeeee
         name = "GitHubGreeting"
         // The url of the repository that contains the published artifacts
         url = "https://maven.pkg.github.com/hugh-mend/greeting-plugin"
