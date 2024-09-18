@@ -6,7 +6,7 @@ plugins {
 sourceCompatibility = JavaVersion.VERSION_11
 
 group 'mend'
-version '1.0.1'
+version '1.0.2'
 
 repositories {
     mavenCentral()
