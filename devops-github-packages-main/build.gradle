@@ -4,7 +4,7 @@ plugins {
 
 sourceCompatibility = JavaVersion.VERSION_11
 
-// group 'mend'
+// group 'mendddddd'
 // version '1.0.0'
 
 repositories {
