@@ -288,3 +288,30 @@ gradle-app.setting
 **/build/
 
 # End of https://www.gitignore.io/api/git,java,linux,macos,gradle,windows,eclipse,intellij
+/.idea/compiler.xml
+/.idea/.gitignore
+/.idea/.name
+/.idea/whitesource/diff/diff-master.json
+/foo.rev
+/foo.txt
+/foo2.rev
+/foo2.txt
+/.idea/whitesource/IntellijUsageMetrics.txt
+/.idea/jarRepositories.xml
+/.idea/misc.xml
+/.idea/modules.xml
+/.idea/whitesource/projectService.xml
+/.idea/vcs.xml
+/.idea/modules/devops-github-packages-library/vulnpackage.devops-github-packages-library.iml
+/.idea/modules/devops-github-packages-library/vulnpackage.devops-github-packages-library.main.iml
+/.idea/modules/devops-github-packages-library/vulnpackage.devops-github-packages-library.test.iml
+/.idea/modules/devops-github-packages-library2/vulnpackage.devops-github-packages-library2.iml
+/.idea/modules/devops-github-packages-library2/vulnpackage.devops-github-packages-library2.main.iml
+/.idea/modules/devops-github-packages-library2/vulnpackage.devops-github-packages-library2.test.iml
+/.idea/modules/devops-github-packages-library3/vulnpackage.devops-github-packages-library3.iml
+/.idea/modules/devops-github-packages-library3/vulnpackage.devops-github-packages-library3.main.iml
+/.idea/modules/devops-github-packages-library3/vulnpackage.devops-github-packages-library3.test.iml
+/.idea/modules/devops-github-packages-main/vulnpackage.devops-github-packages-main.iml
+/.idea/modules/devops-github-packages-main/vulnpackage.devops-github-packages-main.main.iml
+/.idea/modules/devops-github-packages-main/vulnpackage.devops-github-packages-main.test.iml
+/.idea/modules/vulnpackage.iml

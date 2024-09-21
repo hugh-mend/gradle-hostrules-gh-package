@@ -9,7 +9,7 @@ plugins {
 sourceCompatibility = JavaVersion.VERSION_11
 
 group 'mend'
-version '1.0.1'
+version '3.0.1'
 
 repositories {
     mavenCentral()
@@ -37,9 +37,9 @@ publishing {
         // The target repository
         maven {
             // Choose whatever name you want
-            name = "GitHubPackages"
+            name = "GitHubPackages3"
             // The url of the repository, where the artifacts will be published
-            url = "https://maven.pkg.github.com/hugh-mend/gradle-hostrules-gh-package"
+            url = "https://maven.pkg.github.com/hugh-mend/gradle-hostrules-gh-package3"
             credentials {
                 // The credentials (described in the next section)
                 username = System.getenv("GITHUB_ACTOR")
