@@ -1,3 +1,39 @@
+pluginManagement {
+//    def propertyUserHome = System.getProperty('user.home')
+//    def localGradleProperties = new File(propertyUserHome + '/.gradle/gradle.properties')
+//    def localProperties = new Properties()
+
+//    if (localGradleProperties.exists()) {
+//        localProperties.load(localGradleProperties.newReader())
+//    }
+
+    def bitsoGHRepoActor = System.getenv('GITHUB_ACTOR') ?: "foo"
+    def bitsoGHRepoPassword = System.getenv('GITHUB_TOKEN') ?: "bar"
+
+    repositories {
+        maven {
+            // Choose whatever name you want
+            name = "GitHubPackages"
+            // The url of the repository, where the artifacts will be published
+            url = "https://maven.pkg.github.com/hugh-mend/greeting-plugin"
+            credentials {
+                // The credentials (described in the next section)
+                username = bitsoGHRepoActor
+                password = bitsoGHRepoPassword
+            }
+        }
+        gradlePluginPortal()
+    }
+
+    plugins {
+        id 'com.example.plugin.greeting' version "1.0.1"
+    }
+}
+
+//plugins {
+//    id 'com.example.plugin.greeting'
+//}
+
 rootProject.name = 'vulnpackage'
 include 'devops-github-packages-main'
 include 'devops-github-packages-library'

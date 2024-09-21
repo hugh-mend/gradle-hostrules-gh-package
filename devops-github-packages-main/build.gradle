@@ -1,11 +1,12 @@
 plugins {
     id 'java'
+    id 'com.example.plugin.greeting'
 }
 
 sourceCompatibility = JavaVersion.VERSION_11
 
-// group 'mendddddd'
-// version '1.0.0'
+group 'mend'
+version '1.0.2'
 
 repositories {
     mavenCentral()
